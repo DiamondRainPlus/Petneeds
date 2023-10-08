@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35308133909",
+    "project_id": "petneeds-ff3aa",
+    "storage_bucket": "petneeds-ff3aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35308133909:android:699266749e7e722855f81c",
+        "android_client_info": {
+          "package_name": "com.yagmurceliksoy.petneeds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjc55TC7FeJ1WoNq8FR2BaQZq0kkDtjYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

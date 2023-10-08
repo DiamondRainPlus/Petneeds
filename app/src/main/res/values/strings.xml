@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PetNeeds</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_mail">\"Not a valid email address. Should be your@email.com\"</string>
+    <string name="invalid_password">\"Invalid password\"</string>
+    <string name="something_went_wrong">\"Error\"</string>
+    <string name="discounted_products">Discounted Products</string>
+    <string name="all_products">All Products</string>
+    <string name="adult">Adult</string>
+    <string name="kid">Kid</string>
+    <string name="all">All</string>
+    <string name="search">\"Search\"</string>
+    <string name="home">\"Home\"</string>
+    <string name="cart">\"Cart\"</string>
+    <string name="favorites">\"Favorites\"</string>
+    <string name="clear_all">\"Clear All</string>
+    <string name="total_amount">\"Total Amount: \"</string>
+    <string name="buy">\"BUY\"</string>
+    <string name="female">\"Female\"</string>
+    <string name="male">\"Male\"</string>
+    <string name="favoritesUpper">\"FAVORITES\"</string>
+    <string name="cartUpper">CART</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="cvc">CVC</string>
+    <string name="card_date">Date</string>
+    <string name="card_number">Card Number</string>
+    <string name="card_name_surname">Name and Surname</string>
+    <string name="payment">PAYMENT INFO</string>
+    <string name="address">ADDRESS:</string>
+    <string name="pay">PAY</string>
+    <string name="result_text">Your order has been received. Thank you for choosing us.</string>
+    <string name="return_home_page">Continue Shopping</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="Fish">Fish</string>
+    <string name="fish">Fish</string>
+    <string name="bird">Bird</string>
+
+</resources>
